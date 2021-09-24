@@ -1,1 +1,1 @@
-# IgeCord
+# IgeCorp
